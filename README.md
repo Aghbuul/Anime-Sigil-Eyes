@@ -1,6 +1,6 @@
 # Eye Sigil Generator
 
-An AI-powered web application that uses machine learning for precise facial landmark detection to overlay customizable sigils onto eyes in photographs. Built with modern web technologies and developed entirely using AI assistance.
+An ML-powered web application that uses machine learning for precise facial landmark detection to overlay customizable sigils onto eyes in photographs. Built with modern web technologies and developed entirely using AI assistance.
 
 ![Eye Sigil Generator Preview](preview.png)
 
